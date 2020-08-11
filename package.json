@@ -1,0 +1,25 @@
+{
+  "name": "prueba-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamzapata/prueba-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamzapata/prueba-cypress/issues"
+  },
+  "homepage": "https://github.com/iamzapata/prueba-cypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^6.0.0",
+    "cypress": "^4.12.1"
+  }
+}
